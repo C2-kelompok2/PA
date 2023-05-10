@@ -7,7 +7,7 @@
 
 ![Screenshot](ERD.png)
 
-# Halaman Admin
+# Admin
 Berikut ini merupakan tampilan dari login admin. Disini admin diminta untuk memasukkan username dan password admin.
 ![loginad](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/03ba8193-9734-40e7-9518-722ba6f79a55)
 
@@ -23,7 +23,11 @@ Berikutnya adalah tampilan dari pembelian data oleh pelanggan yang dapat dihapus
 Di halaman admin ini juga terdapat halaman pelanggan yang dapat menghapus data pelanggan.
 ![pelanggan](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/581b13fb-d8da-4e9a-96ed-6803f500ea7e)
 
-# Halaman Pelanggan
+# Pelanggan
 Berikut ini merupakan tampilan dari login pelanggan. Disini pelanggan diminta untuk memasukkan email dan passwordnya.
 ![loginpel](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/01ea0285-b0da-457c-8d0e-79810493f920)
+
+Jika berhasil masuk, maka tampilan awal dari halaman pelanggan akan seperti ini.
+![pelanggan awal](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/7b8bace3-15fe-42ea-a44a-b4cc2d5e250b)
+
 
