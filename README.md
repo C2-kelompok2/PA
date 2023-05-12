@@ -9,25 +9,13 @@
 
 # Admin
 Berikut ini merupakan tampilan dari login admin. Disini admin diminta untuk memasukkan username dan password admin.
-![loginad](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/03ba8193-9734-40e7-9518-722ba6f79a55)
+![Screenshot (115)](https://github.com/nabilazh/PA-WEB/assets/102877599/28cc9b63-348d-429b-b447-96cfb9938084)
 
-Setelah berhasil login, maka admin masuk ke halaman admin. Berikut ini terdapat halaman data menu yang dapat menghapus dan mengubah menu.
-![data menu](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/a53cd84d-ba11-4950-b811-8f11a1e63331)
+Setelah berhasil login, maka akan masuk ke halaman home admin yang menampilkan username admin yang sedang login.
+![Screenshot (112)](https://github.com/nabilazh/PA-WEB/assets/102877599/2a164012-83a1-437a-b355-c003718cf7a6)
 
-Selanjutnya, terdapat halaman data restaurant yang dapat mengubah dan menambahkan restaurant.
-![data resto](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/d36f3ae8-81ce-4255-ad2e-cbd38a21fa2b)
+Selanjutnya, terdapat halaman restoran yang berisi data restaurant yang dapat mengubah dan menambahkan restaurant.
+![Screenshot (113)](https://github.com/nabilazh/PA-WEB/assets/102877599/63fe49c6-4574-4724-a5a5-e34603f735e0)
 
-Berikutnya adalah tampilan dari pembelian data oleh pelanggan yang dapat dihapus dan dilihat detailnya.
-![pembelian data](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/45ee7471-2677-4e70-ad90-e59db098c304)
-
-Di halaman admin ini juga terdapat halaman pelanggan yang dapat menghapus data pelanggan.
-![pelanggan](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/581b13fb-d8da-4e9a-96ed-6803f500ea7e)
-
-# Pelanggan
-Berikut ini merupakan tampilan dari login pelanggan. Disini pelanggan diminta untuk memasukkan email dan passwordnya.
-![loginpel](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/01ea0285-b0da-457c-8d0e-79810493f920)
-
-Jika berhasil masuk, maka tampilan awal dari halaman pelanggan akan seperti ini.
-![pelanggan awal](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/7b8bace3-15fe-42ea-a44a-b4cc2d5e250b)
-
-
+Berikutnya terdapat halaman produk yang berisi data menu serta dapat menghapus dan mengubah menu.
+![Screenshot (114)](https://github.com/nabilazh/PA-WEB/assets/102877599/8d723f3b-9be6-4890-8901-4675df7a087b)
