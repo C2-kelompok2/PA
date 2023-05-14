@@ -31,10 +31,10 @@ Jika register berhasil maka akan kembali ke halaman login lagi dan diminta untuk
 ![logberhasil](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/d0e54f03-7315-450e-b55f-13989893aeb3)
 
 Jika berhasil login tampilan awal yang akan dilihat oleh pelanggan yaitu halaman home seperti berikut.
-![home](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/793f8834-c6b7-4c45-834f-5038c0ef0dd5)
+![home](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/f4518ed9-f3e8-4798-bb12-eea07cd05f63)
 
 Pelanggan juga dapat melihat menu yang tampilan halamannya seperti berikut.
-![menu](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/4a7cb2b3-582d-4b8b-a5aa-c1600c67b72a)
+![menu](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/7c511268-b6b4-4922-9703-40717e9c5b67)
 
 Di menu ini kita dapat membeli dan melihat detail dari menu yang ingin kita lihat seperti berikut.
 ![Screenshot (130)](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/376459e7-6530-475a-a6a8-c26486d34bca)
@@ -55,9 +55,9 @@ Jika menekan checkout dan pembayaran berhasil, maka pelanggan akan mendapatkan n
 ![Screenshot (136)](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/383d21bb-ccfe-4735-bce7-9d4baaf834e4)
 
 Selanjutnya, terdapat juga halaman partners yang tampilannya seperti berikut.
-![partner1](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/bed268e7-5011-4557-8385-5b340b127722)
-![partner2](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/f2c0ca81-16a6-4bd5-8589-d49bb0c5c47d)
-![partner3](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/91dafda4-31db-430a-ac38-ff1c2ce314d1)
+![partner1](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/102aebc5-bf65-48ef-9b3c-0dff14df811b)
+![partner2](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/7080e3e8-c50e-4ac1-b6b8-6411cc6e41c9)
+![partner3](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/3f6152e5-2ee3-474c-b035-f3e86b0698e8)
 
 Dan Terdapat halaman contact us yang berisi alamat dan kontak dari restaurant.
 ![contact](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/c4be203e-fd84-4fd7-af1d-f0ea885cec14)
