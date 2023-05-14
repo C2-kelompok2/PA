@@ -60,4 +60,4 @@ Selanjutnya, terdapat juga halaman partners yang tampilannya seperti berikut.
 ![partner3](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/3f6152e5-2ee3-474c-b035-f3e86b0698e8)
 
 Dan Terdapat halaman contact us yang berisi alamat dan kontak dari restaurant.
-![contact](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/c4be203e-fd84-4fd7-af1d-f0ea885cec14)
+![contact](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/5a6c0e2b-9aae-4d7e-b787-fe336f77d12a)
