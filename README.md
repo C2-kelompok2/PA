@@ -63,3 +63,14 @@ Dan Terdapat halaman contact us yang berisi alamat dan kontak dari restaurant.
 ![contact](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/5a6c0e2b-9aae-4d7e-b787-fe336f77d12a)
 
 # Kasir
+Berikut ini merupakan tampilan dari login Cashier. Disini Cashier diminta untuk memasukkan username dan password Cashier.
+![login](https://github.com/C2-kelompok2/PA-WEB/assets/118673435/e5551ae7-27b6-40b0-979e-498c2065823d)
+
+Setelah berhasil login, maka akan masuk ke halaman home Cashier yang menampilkan username admin yang sedang login.
+![halaman utaman](https://github.com/C2-kelompok2/PA-WEB/assets/118673435/98ad81ee-625e-4f75-862e-be9c356c78a6)
+
+Selanjutnya, terdapat halaman pembelian yang berisi pembelian data yang dapat dihapus danmelihat detail.
+![crud](https://github.com/C2-kelompok2/PA-WEB/assets/118673435/3421492d-102e-4170-853c-fc49a5ad629a)
+
+Berikutnya terdapat halaman pelanggan yang berisi akun pelanggan serta dapat dihapus.
+![hapus](https://github.com/C2-kelompok2/PA-WEB/assets/118673435/1e6b4a18-7b2a-49ab-8af9-2e51c2322732)
