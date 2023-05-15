@@ -1,7 +1,7 @@
 # C2 - Restaurant
 
 # Use Case Diagram :
-![USE CASE Diagram drawio](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/5191625a-0112-4e85-9edf-709826b23efc)
+![USE CASE Diagram drawio drawio](https://github.com/C2-kelompok2/PA-WEB/assets/102877599/9b167a54-bc84-4097-99b9-e98f725af6ff)
 
 # ERD :
 
